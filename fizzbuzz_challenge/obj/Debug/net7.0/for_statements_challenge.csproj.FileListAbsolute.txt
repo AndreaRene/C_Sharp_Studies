@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\bin\Debug\net7.0\for_statements_challenge.exe
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\bin\Debug\net7.0\for_statements_challenge.deps.json
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\bin\Debug\net7.0\for_statements_challenge.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\bin\Debug\net7.0\for_statements_challenge.dll
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\bin\Debug\net7.0\for_statements_challenge.pdb
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.dll
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\refint\for_statements_challenge.dll
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.pdb
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\for_statements_challenge.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\fizzbuzz_challenge\obj\Debug\net7.0\ref\for_statements_challenge.dll
