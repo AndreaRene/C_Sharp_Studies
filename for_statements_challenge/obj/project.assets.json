@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onefo\\projects\\C#_studies\\for_statements\\for_statements.csproj",
-      "projectName": "for_statements",
-      "projectPath": "C:\\Users\\onefo\\projects\\C#_studies\\for_statements\\for_statements.csproj",
+      "projectUniqueName": "C:\\Users\\onefo\\projects\\C#_studies\\for_statements_challenge\\for_statements_challenge.csproj",
+      "projectName": "for_statements_challenge",
+      "projectPath": "C:\\Users\\onefo\\projects\\C#_studies\\for_statements_challenge\\for_statements_challenge.csproj",
       "packagesPath": "C:\\Users\\onefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\onefo\\projects\\C#_studies\\for_statements\\obj\\",
+      "outputPath": "C:\\Users\\onefo\\projects\\C#_studies\\for_statements_challenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\onefo\\AppData\\Roaming\\NuGet\\NuGet.Config"
