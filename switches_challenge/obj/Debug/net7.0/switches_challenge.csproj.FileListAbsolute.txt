@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\switches_challenge\bin\Debug\net7.0\switches_challenge.exe
+C:\Users\onefo\projects\C#_studies\switches_challenge\bin\Debug\net7.0\switches_challenge.deps.json
+C:\Users\onefo\projects\C#_studies\switches_challenge\bin\Debug\net7.0\switches_challenge.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\switches_challenge\bin\Debug\net7.0\switches_challenge.dll
+C:\Users\onefo\projects\C#_studies\switches_challenge\bin\Debug\net7.0\switches_challenge.pdb
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.dll
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\refint\switches_challenge.dll
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.pdb
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\switches_challenge.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\switches_challenge\obj\Debug\net7.0\ref\switches_challenge.dll

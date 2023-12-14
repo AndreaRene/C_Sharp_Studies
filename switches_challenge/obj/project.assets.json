@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onefo\\projects\\C#_studies\\switches\\switches_challenge\\switches_challenge.csproj",
+      "projectUniqueName": "C:\\Users\\onefo\\projects\\C#_studies\\switches_challenge\\switches_challenge.csproj",
       "projectName": "switches_challenge",
-      "projectPath": "C:\\Users\\onefo\\projects\\C#_studies\\switches\\switches_challenge\\switches_challenge.csproj",
+      "projectPath": "C:\\Users\\onefo\\projects\\C#_studies\\switches_challenge\\switches_challenge.csproj",
       "packagesPath": "C:\\Users\\onefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\onefo\\projects\\C#_studies\\switches\\switches_challenge\\obj\\",
+      "outputPath": "C:\\Users\\onefo\\projects\\C#_studies\\switches_challenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\onefo\\AppData\\Roaming\\NuGet\\NuGet.Config"
