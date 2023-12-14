@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\CSharpStudies\logic\bin\Debug\net8.0\logic.exe
+C:\Users\onefo\projects\CSharpStudies\logic\bin\Debug\net8.0\logic.deps.json
+C:\Users\onefo\projects\CSharpStudies\logic\bin\Debug\net8.0\logic.runtimeconfig.json
+C:\Users\onefo\projects\CSharpStudies\logic\bin\Debug\net8.0\logic.dll
+C:\Users\onefo\projects\CSharpStudies\logic\bin\Debug\net8.0\logic.pdb
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.AssemblyInfo.cs
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.dll
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\refint\logic.dll
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.pdb
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\logic.genruntimeconfig.cache
+C:\Users\onefo\projects\CSharpStudies\logic\obj\Debug\net8.0\ref\logic.dll

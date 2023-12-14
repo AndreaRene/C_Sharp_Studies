@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\bin\Debug\net8.0\c_sharp_boolean.exe
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\bin\Debug\net8.0\c_sharp_boolean.deps.json
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\bin\Debug\net8.0\c_sharp_boolean.runtimeconfig.json
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\bin\Debug\net8.0\c_sharp_boolean.dll
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\bin\Debug\net8.0\c_sharp_boolean.pdb
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.AssemblyInfo.cs
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.dll
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\refint\c_sharp_boolean.dll
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.pdb
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\c_sharp_boolean.genruntimeconfig.cache
+C:\Users\onefo\projects\CSharpStudies\c_sharp_boolean\obj\Debug\net8.0\ref\c_sharp_boolean.dll
