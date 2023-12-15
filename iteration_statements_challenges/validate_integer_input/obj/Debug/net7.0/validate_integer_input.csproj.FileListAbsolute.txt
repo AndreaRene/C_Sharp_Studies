@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\bin\Debug\net7.0\validate_integer_input.exe
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\bin\Debug\net7.0\validate_integer_input.deps.json
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\bin\Debug\net7.0\validate_integer_input.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\bin\Debug\net7.0\validate_integer_input.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\bin\Debug\net7.0\validate_integer_input.pdb
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\refint\validate_integer_input.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.pdb
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\validate_integer_input.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_integer_input\obj\Debug\net7.0\ref\validate_integer_input.dll
