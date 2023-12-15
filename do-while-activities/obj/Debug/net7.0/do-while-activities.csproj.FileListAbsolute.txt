@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\do-while-activities\bin\Debug\net7.0\do-while-activities.exe
+C:\Users\onefo\projects\C#_studies\do-while-activities\bin\Debug\net7.0\do-while-activities.deps.json
+C:\Users\onefo\projects\C#_studies\do-while-activities\bin\Debug\net7.0\do-while-activities.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\do-while-activities\bin\Debug\net7.0\do-while-activities.dll
+C:\Users\onefo\projects\C#_studies\do-while-activities\bin\Debug\net7.0\do-while-activities.pdb
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.dll
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\refint\do-while-activities.dll
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.pdb
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\do-while-activities.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\do-while-activities\obj\Debug\net7.0\ref\do-while-activities.dll
