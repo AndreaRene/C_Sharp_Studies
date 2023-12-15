@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\bin\Debug\net7.0\rpg_game_battle_challenge.exe
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\bin\Debug\net7.0\rpg_game_battle_challenge.deps.json
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\bin\Debug\net7.0\rpg_game_battle_challenge.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\bin\Debug\net7.0\rpg_game_battle_challenge.dll
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\bin\Debug\net7.0\rpg_game_battle_challenge.pdb
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.dll
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\refint\rpg_game_battle_challenge.dll
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.pdb
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\rpg_game_battle_challenge.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\rpg_game_battle_challenge\obj\Debug\net7.0\ref\rpg_game_battle_challenge.dll
