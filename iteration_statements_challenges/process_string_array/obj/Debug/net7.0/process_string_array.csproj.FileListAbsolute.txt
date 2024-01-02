@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\bin\Debug\net7.0\process_string_array.exe
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\bin\Debug\net7.0\process_string_array.deps.json
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\bin\Debug\net7.0\process_string_array.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\bin\Debug\net7.0\process_string_array.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\bin\Debug\net7.0\process_string_array.pdb
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\refint\process_string_array.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.pdb
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\process_string_array.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\process_string_array\obj\Debug\net7.0\ref\process_string_array.dll
