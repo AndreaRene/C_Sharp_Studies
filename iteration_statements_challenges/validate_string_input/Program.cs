@@ -16,7 +16,20 @@ string[] options = {"administrator", "manager", "user"};
 
 Console.WriteLine("Please enter your role name (Administrator, Manager, or User)");
 
+//loop
 do {
-    string input = Console.ReadLine() ?? "";
-    
-}
+    string input = Console.ReadLine().Trim().ToLower();
+
+    foreach (var option in options) {
+        if (input == option) {
+            isValid = true;
+            break;
+        }
+    }
+
+    if (!isValid) {
+        Console.WriteLine("Invalid role. Please enter Administrator, Manager, or User");
+    }
+} while (!isValid);
+
+Console.WriteLine($"Role {input} accepted.");

@@ -1,0 +1,14 @@
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\bin\Debug\net7.0\validate_string_input.exe
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\bin\Debug\net7.0\validate_string_input.deps.json
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\bin\Debug\net7.0\validate_string_input.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\bin\Debug\net7.0\validate_string_input.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\bin\Debug\net7.0\validate_string_input.pdb
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\refint\validate_string_input.dll
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.pdb
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\validate_string_input.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\iteration_statements_challenges\validate_string_input\obj\Debug\net7.0\ref\validate_string_input.dll
