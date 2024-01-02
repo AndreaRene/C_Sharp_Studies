@@ -19,7 +19,7 @@ Console.WriteLine("Please enter your role name (Administrator, Manager, or User)
 
 //loop
 do {
-    input = Console.ReadLine().Trim().ToLower();
+    input = (Console.ReadLine() ?? string.Empty).Trim().ToLower();
 
     foreach (var option in options) {
         if (input == option) {
