@@ -13,12 +13,13 @@
 
 bool isValid = false;
 string[] options = {"administrator", "manager", "user"};
+string input;
 
 Console.WriteLine("Please enter your role name (Administrator, Manager, or User)");
 
 //loop
 do {
-    string input = Console.ReadLine().Trim().ToLower();
+    input = Console.ReadLine().Trim().ToLower();
 
     foreach (var option in options) {
         if (input == option) {
