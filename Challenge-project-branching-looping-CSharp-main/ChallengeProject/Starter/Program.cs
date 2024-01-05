@@ -293,8 +293,11 @@ do
             {
                 if (!string.IsNullOrEmpty(ourAnimals[i, 0]) && ourAnimals[i, 0] != "ID#: ")
                 {
-                    bool isAgeValid = int.TryParse(ourAnimals[i, 2].Substring(5), out int age);
-                    while (!isAgeValid)
+
+                    string ageString = ourAnimals[i, 2].Length > 5 ? ourAnimals[i, 2].Substring(5) : "";
+                    bool isAgeValid = int.TryParse(ageString, out int age);
+
+                    while (!string.IsNullOrEmpty(ageString) && !isAgeValid)
                     {
                         Console.WriteLine($"Enter a valid age for {ourAnimals[i, 0]}:");
                         string input = Console.ReadLine() ?? string.Empty;
@@ -307,14 +310,12 @@ do
                         {
                             Console.WriteLine("Invalid input. Please enter a numeric value.");
                         }
-
                     }
-
                     //Physical Description
                 }
             }
-
             break;
+
 
         case "4":
             // Ensure animal nicknames and personality descriptions are complete
