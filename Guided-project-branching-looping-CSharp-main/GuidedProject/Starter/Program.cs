@@ -101,10 +101,10 @@ do
     Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
 
     readResult = Console.ReadLine();
-        if (readResult != null)
-        {
-            menuSelection = readResult.ToLower();
-        }
+    if (readResult != null)
+    {
+        menuSelection = readResult.ToLower();
+    }
 
     // Console.WriteLine($"You selected menu option {menuSelection}.");
     // Console.WriteLine("Press the Enter key to continue");
@@ -121,7 +121,8 @@ do
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
                     Console.WriteLine();
-                    for (int j = 0; j < 6; j++){
+                    for (int j = 0; j < 6; j++)
+                    {
                         Console.WriteLine(ourAnimals[i, j]);
                     }
                 }
@@ -138,7 +139,7 @@ do
             {
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
-                        petCount += 1;
+                    petCount += 1;
                 }
 
             }
@@ -199,6 +200,21 @@ do
                                 }
                             }
                         } while (animalPhysicalDescription == "");
+                        // get a description of the pet's personality - animalPersonalityDescription can be blank.
+                        do
+                        {
+                            Console.WriteLine("Enter a description of the pet's personality (likes or dislikes, tricks, energy level)");
+                            readResult = Console.ReadLine();
+                            if (readResult != null)
+                            {
+                                animalPersonalityDescription = readResult.ToLower();
+                                if (animalPersonalityDescription == "")
+                                {
+                                    animalPersonalityDescription = "tbd";
+                                }
+                            }
+                        } while (animalPersonalityDescription == "");
+                        
                     }
                 } while (validEntry == false);
                 petCount = petCount + 1;
@@ -214,7 +230,7 @@ do
                         }
 
                     } while (anotherPet != "y" && anotherPet != "n");
-                                    }
+                }
             }
             if (petCount >= maxPets)
             {
@@ -225,45 +241,45 @@ do
             break;
 
         case "3":
-        //  Ensure animal ages and physical descriptions are complete
+            //  Ensure animal ages and physical descriptions are complete
             Console.WriteLine("Challenge Project - please check back soon to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "4":
-        // Ensure animal nicknames and personality descriptions are complete
+            // Ensure animal nicknames and personality descriptions are complete
             Console.WriteLine("Challenge Project - please check back soon to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "5":
-        // Edit an animal’s age
+            // Edit an animal’s age
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "6":
-        // Edit an animal’s personality description
+            // Edit an animal’s personality description
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "7":
-        // Display all cats with a specified characteristic
+            // Display all cats with a specified characteristic
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "8":
-        // Display all dogs with a specified characteristic
+            // Display all dogs with a specified characteristic
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
-    Console.WriteLine("Press the Enter key to continue.");
-    readResult = Console.ReadLine();
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
         default:
             break;
