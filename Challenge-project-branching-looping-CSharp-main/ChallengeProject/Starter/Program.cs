@@ -297,7 +297,7 @@ do
                     while (!isAgeValid)
                     {
                         Console.WriteLine($"Enter a valid age for {ourAnimals[i, 0]}:");
-                        string input = Console.ReadLine();
+                        string input = Console.ReadLine() ?? string.Empty;
                         isAgeValid = int.TryParse(input, out age);
                         if (isAgeValid)
                         {
