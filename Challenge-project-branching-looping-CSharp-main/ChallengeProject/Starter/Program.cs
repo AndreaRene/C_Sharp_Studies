@@ -291,13 +291,13 @@ do
             // The style of coding provided makes less sense to me. I will be using an approach that seems more logical to me for the remainder of the challenge
             for (int i = 0; i < maxPets; i++)
             {
-                if (!string.IsNullOrEmpty(ourAnimals[i, 0]) && ourAnimals[i, 0] != "ID#: ")
+                if (!string.IsNullOrEmpty(ourAnimals[i, 0]) && ourAnimals[i, 0] != "ID #: ")
                 {
 
-                    string ageString = ourAnimals[i, 2].Length > 5 ? ourAnimals[i, 2].Substring(5) : "";
+                    string ageString = ourAnimals[i, 2].Length > 5 ? ourAnimals[i, 2][5..] : "";
                     bool isAgeValid = int.TryParse(ageString, out int age);
 
-                    while (!string.IsNullOrEmpty(ageString) && !isAgeValid)
+                    while (!isAgeValid)
                     {
                         Console.WriteLine($"Enter a valid age for {ourAnimals[i, 0]}:");
                         string input = Console.ReadLine() ?? string.Empty;
@@ -306,12 +306,30 @@ do
                         {
                             ourAnimals[i, 2] = "Age: " + age;
                         }
+                        //The previous cases do not contain an error handler but we need to user proof our code
                         else
                         {
                             Console.WriteLine("Invalid input. Please enter a numeric value.");
                         }
                     }
+
                     //Physical Description
+                    string physicalDescriptionString = ourAnimals[i, 4][22..];
+
+                    if (string.IsNullOrEmpty(physicalDescriptionString) || physicalDescriptionString.Equals("tbd", StringComparison.OrdinalIgnoreCase))
+                    {
+                        Console.WriteLine($"Enter a physical description (size, color, breed, gender, weight, housebroken) for {ourAnimals[i, 0]}:");
+                        string input = Console.ReadLine() ?? string.Empty;
+
+                        if (!string.IsNullOrEmpty(input))
+                        {
+                            ourAnimals[i, 4] = "Physical description: " + input;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid input. Please enter a valid physical description.");
+                        }
+                    }
                 }
             }
             break;
