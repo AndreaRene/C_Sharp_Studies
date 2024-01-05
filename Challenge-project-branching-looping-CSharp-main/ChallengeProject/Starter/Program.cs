@@ -287,9 +287,30 @@ do
 
         case "3":
             // Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+
+            // The style of coding provided makes less sense to me. I will be using an approach that seems more logical to me for the remainder of the challenge
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (!string.IsNullOrEmpty(ourAnimals[i, 0]) && ourAnimals[i, 0] != "ID#: ")
+                    bool isAgeValid = int.TryParse(ourAnimals[i, 2].Substring(5), out int age);
+                while (!isAgeValid)
+                {
+                    Console.WriteLine($"Enter a valid age for {ourAnimals[i, 0]}:");
+                    string input = Console.ReadLine();
+                    isAgeValid = int.TryParse(input, out age);
+                    if (isAgeValid)
+                    {
+                        ourAnimals[i, 2] = "Age: " + age;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid input. Please enter a numeric value.");
+                    }
+                }
+
+                //Physical Description
+            }
+
             break;
 
         case "4":
@@ -312,7 +333,7 @@ do
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
-        
+
         case "7":
             // Display all cats with a specified characteristic
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
