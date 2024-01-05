@@ -292,23 +292,26 @@ do
             for (int i = 0; i < maxPets; i++)
             {
                 if (!string.IsNullOrEmpty(ourAnimals[i, 0]) && ourAnimals[i, 0] != "ID#: ")
-                    bool isAgeValid = int.TryParse(ourAnimals[i, 2].Substring(5), out int age);
-                while (!isAgeValid)
                 {
-                    Console.WriteLine($"Enter a valid age for {ourAnimals[i, 0]}:");
-                    string input = Console.ReadLine();
-                    isAgeValid = int.TryParse(input, out age);
-                    if (isAgeValid)
+                    bool isAgeValid = int.TryParse(ourAnimals[i, 2].Substring(5), out int age);
+                    while (!isAgeValid)
                     {
-                        ourAnimals[i, 2] = "Age: " + age;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid input. Please enter a numeric value.");
-                    }
-                }
+                        Console.WriteLine($"Enter a valid age for {ourAnimals[i, 0]}:");
+                        string input = Console.ReadLine();
+                        isAgeValid = int.TryParse(input, out age);
+                        if (isAgeValid)
+                        {
+                            ourAnimals[i, 2] = "Age: " + age;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid input. Please enter a numeric value.");
+                        }
 
-                //Physical Description
+                    }
+
+                    //Physical Description
+                }
             }
 
             break;
