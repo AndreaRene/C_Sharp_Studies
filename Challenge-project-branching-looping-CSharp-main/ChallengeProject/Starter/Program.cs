@@ -314,22 +314,26 @@ do
                     }
 
                     //Physical Description
-                    string physicalDescriptionString = ourAnimals[i, 4][22..];
+                    string physicalDescriptionString = ourAnimals[i, 4].Length > 22 ? ourAnimals[i, 4][22..] : "";
 
                     if (string.IsNullOrEmpty(physicalDescriptionString) || physicalDescriptionString.Equals("tbd", StringComparison.OrdinalIgnoreCase))
                     {
-                        Console.WriteLine($"Enter a physical description (size, color, breed, gender, weight, housebroken) for {ourAnimals[i, 0]}:");
-                        string input = Console.ReadLine() ?? string.Empty;
+                        string input;
+                        do
+                        {
+                            Console.WriteLine($"Enter a physical description (size, color, breed, gender, weight, housebroken) for {ourAnimals[i, 0]}:");
+                            input = Console.ReadLine() ?? string.Empty;
 
-                        if (!string.IsNullOrEmpty(input))
-                        {
-                            ourAnimals[i, 4] = "Physical description: " + input;
+                            if (string.IsNullOrEmpty(input))
+                            {
+                                Console.WriteLine("The physical description cannot be empty. Please enter valid details.");
+                            }
                         }
-                        else
-                        {
-                            Console.WriteLine("Invalid input. Please enter a valid physical description.");
-                        }
+                        while (string.IsNullOrEmpty(input));
+
+                        ourAnimals[i, 4] = "Physical description: " + input;
                     }
+
                 }
             }
             break;
