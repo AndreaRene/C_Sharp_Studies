@@ -350,7 +350,7 @@ do
                 {
 
                     //Nickname
-                    string nicknameString = ourAnimals[i, 4].Length > 10 ? ourAnimals[i, 3][10..] : "";
+                    string nicknameString = ourAnimals[i, 3].Length > 10 ? ourAnimals[i, 3][10..] : "";
 
                     if (string.IsNullOrEmpty(nicknameString) || nicknameString.Equals("tbd", StringComparison.OrdinalIgnoreCase))
                     {
@@ -368,6 +368,27 @@ do
                         while (string.IsNullOrEmpty(input));
 
                         ourAnimals[i, 3] = "Nickname: " + input;
+                    }
+
+                    //Physical Description
+                    string personalityDescriptionString = ourAnimals[i, 5].Length > 13 ? ourAnimals[i, 5][13..] : "";
+
+                    if (string.IsNullOrEmpty(personalityDescriptionString) || personalityDescriptionString.Equals("tbd", StringComparison.OrdinalIgnoreCase))
+                    {
+                        string input;
+                        do
+                        {
+                            Console.WriteLine($"Enter a personality for {ourAnimals[i, 0]}:");
+                            input = Console.ReadLine() ?? string.Empty;
+
+                            if (string.IsNullOrEmpty(input))
+                            {
+                                Console.WriteLine("The personality cannot be empty. Please enter valid details.");
+                            }
+                        }
+                        while (string.IsNullOrEmpty(input));
+
+                        ourAnimals[i, 5] = "Personality: " + input;
                     }
 
                 }
