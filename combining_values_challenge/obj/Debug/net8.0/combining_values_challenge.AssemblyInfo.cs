@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("combining_values_challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27f0e07448cf33a6caf8bc9e23dfd88c73bf18b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("combining_values_challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("combining_values_challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

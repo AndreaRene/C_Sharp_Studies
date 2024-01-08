@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\bin\Debug\net8.0\combining_values_challenge.exe
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\bin\Debug\net8.0\combining_values_challenge.deps.json
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\bin\Debug\net8.0\combining_values_challenge.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\bin\Debug\net8.0\combining_values_challenge.dll
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\bin\Debug\net8.0\combining_values_challenge.pdb
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.sourcelink.json
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.dll
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\refint\combining_values_challenge.dll
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.pdb
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\combining_values_challenge.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\combining_values_challenge\obj\Debug\net8.0\ref\combining_values_challenge.dll
