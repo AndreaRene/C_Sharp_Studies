@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("casting_and_converting_math_challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77600a95fba368f7f6105a09b9318c4591283acd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d73f0a38d8d2ce28a746536cc8d7fe1f506740ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("casting_and_converting_math_challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("casting_and_converting_math_challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
