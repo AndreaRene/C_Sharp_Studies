@@ -344,9 +344,35 @@ do
 
         case "4":
             // Ensure animal nicknames and personality descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (!string.IsNullOrEmpty(ourAnimals[i, 0]) && ourAnimals[i, 0] != "ID #: ")
+                {
+
+                    //Nickname
+                    string nicknameString = ourAnimals[i, 4].Length > 10 ? ourAnimals[i, 3][10..] : "";
+
+                    if (string.IsNullOrEmpty(nicknameString) || nicknameString.Equals("tbd", StringComparison.OrdinalIgnoreCase))
+                    {
+                        string input;
+                        do
+                        {
+                            Console.WriteLine($"Enter a nickname for {ourAnimals[i, 0]}:");
+                            input = Console.ReadLine() ?? string.Empty;
+
+                            if (string.IsNullOrEmpty(input))
+                            {
+                                Console.WriteLine("The nickname cannot be empty. Please enter valid details.");
+                            }
+                        }
+                        while (string.IsNullOrEmpty(input));
+
+                        ourAnimals[i, 3] = "Nickname: " + input;
+                    }
+
+                }
+            }
+            
             break;
 
         case "5":
