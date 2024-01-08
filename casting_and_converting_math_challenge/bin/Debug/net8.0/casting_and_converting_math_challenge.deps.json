@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "casting_and_converting_math_challenge/1.0.0": {
+        "runtime": {
+          "casting_and_converting_math_challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "casting_and_converting_math_challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
