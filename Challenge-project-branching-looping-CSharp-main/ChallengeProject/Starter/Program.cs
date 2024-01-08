@@ -393,6 +393,9 @@ do
 
                 }
             }
+            Console.WriteLine("Nickname and personailty description fields are complete for all of our friends.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             
             break;
 
