@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.sourcelink.json
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\bin\Debug\net8.0\arrays_and_helpers.exe
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\bin\Debug\net8.0\arrays_and_helpers.deps.json
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\bin\Debug\net8.0\arrays_and_helpers.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\bin\Debug\net8.0\arrays_and_helpers.dll
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\bin\Debug\net8.0\arrays_and_helpers.pdb
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.dll
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\refint\arrays_and_helpers.dll
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.pdb
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\arrays_and_helpers.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\arrays_and_helpers\obj\Debug\net8.0\ref\arrays_and_helpers.dll
