@@ -52,5 +52,25 @@ foreach (var pallet in pallets)
     Console.WriteLine($"-- {pallet}");
 }
 
+//individual characters in string into string array
 
+string value = "abc123";
+char[] valueArray = value.ToCharArray();
 
+//reverse array
+
+Array.Reverse(valueArray);
+// string result = new string(valueArray);
+
+// join method
+
+string result = String.Join(",", valueArray);
+Console.WriteLine(result);
+
+//Split method
+
+string[] items = result.Split(',');
+foreach (string item in items)
+{
+    Console.WriteLine(item);
+}
