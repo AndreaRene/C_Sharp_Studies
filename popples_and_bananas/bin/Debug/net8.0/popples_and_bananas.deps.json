@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "popples_and_bananas/1.0.0": {
+        "runtime": {
+          "popples_and_bananas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "popples_and_bananas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

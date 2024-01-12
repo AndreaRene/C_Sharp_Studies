@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\bin\Debug\net8.0\popples_and_bananas.exe
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\bin\Debug\net8.0\popples_and_bananas.deps.json
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\bin\Debug\net8.0\popples_and_bananas.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\bin\Debug\net8.0\popples_and_bananas.dll
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\bin\Debug\net8.0\popples_and_bananas.pdb
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.sourcelink.json
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.dll
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\refint\popples_and_bananas.dll
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.pdb
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\popples_and_bananas.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\popples_and_bananas\obj\Debug\net8.0\ref\popples_and_bananas.dll
