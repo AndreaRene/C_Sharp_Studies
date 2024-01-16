@@ -21,7 +21,7 @@ string banana = "banana";
 string potato = "potato";
 string otherFruit = "orange";
 
-Console.WriteLine("Global Scope(outside before ShowMeBlue):");
+Console.WriteLine("Global Scope(outside before ShowMeBlue and ShowMeStripes):");
 Console.WriteLine($"The banana is: {banana}.");
 Console.WriteLine($"The potato is: {potato}.");
 Console.WriteLine($"The other fruit is: {otherFruit}.");
@@ -47,6 +47,7 @@ Console.WriteLine("");
 Console.WriteLine("-------");
 Console.WriteLine("");
 Console.WriteLine("Local Scope(inside during ShowMeStripes):");
+Console.WriteLine(ShowMeStripes(otherFruit));
 Console.WriteLine(ShowMeStripes(ShowMeBlue(banana)));
 Console.WriteLine(ShowMeBlue(ShowMeStripes(potato)));
 
