@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\bin\Debug\net8.0\reverse_words_challenge.exe
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\bin\Debug\net8.0\reverse_words_challenge.deps.json
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\bin\Debug\net8.0\reverse_words_challenge.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\bin\Debug\net8.0\reverse_words_challenge.dll
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\bin\Debug\net8.0\reverse_words_challenge.pdb
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.sourcelink.json
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.dll
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\refint\reverse_words_challenge.dll
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.pdb
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\reverse_words_challenge.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\reverse_words_challenge\obj\Debug\net8.0\ref\reverse_words_challenge.dll
