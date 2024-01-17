@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\bin\Debug\net8.0\string_formatting_basics.exe
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\bin\Debug\net8.0\string_formatting_basics.deps.json
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\bin\Debug\net8.0\string_formatting_basics.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\bin\Debug\net8.0\string_formatting_basics.dll
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\bin\Debug\net8.0\string_formatting_basics.pdb
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.sourcelink.json
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.dll
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\refint\string_formatting_basics.dll
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.pdb
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\string_formatting_basics.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\string_formatting_basics\obj\Debug\net8.0\ref\string_formatting_basics.dll
