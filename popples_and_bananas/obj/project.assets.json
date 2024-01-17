@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onefo\\projects\\C#_studies\\popples_and_bananas\\popples_and_bananas.csproj",
+      "projectUniqueName": "C:\\Users\\onefo\\projects\\C_Sharp_Studies\\popples_and_bananas\\popples_and_bananas.csproj",
       "projectName": "popples_and_bananas",
-      "projectPath": "C:\\Users\\onefo\\projects\\C#_studies\\popples_and_bananas\\popples_and_bananas.csproj",
+      "projectPath": "C:\\Users\\onefo\\projects\\C_Sharp_Studies\\popples_and_bananas\\popples_and_bananas.csproj",
       "packagesPath": "C:\\Users\\onefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\onefo\\projects\\C#_studies\\popples_and_bananas\\obj\\",
+      "outputPath": "C:\\Users\\onefo\\projects\\C_Sharp_Studies\\popples_and_bananas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\onefo\\AppData\\Roaming\\NuGet\\NuGet.Config"

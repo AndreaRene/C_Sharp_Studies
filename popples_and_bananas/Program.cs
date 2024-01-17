@@ -47,7 +47,6 @@ Console.WriteLine("");
 Console.WriteLine("-------");
 Console.WriteLine("");
 Console.WriteLine("Local Scope(inside during ShowMeStripes):");
-Console.WriteLine(ShowMeStripes(otherFruit));
 Console.WriteLine(ShowMeStripes(ShowMeBlue(banana)));
 Console.WriteLine(ShowMeBlue(ShowMeStripes(potato)));
 
