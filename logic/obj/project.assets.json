@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onefo\\projects\\CSharpStudies\\logic\\logic.csproj",
+      "projectUniqueName": "C:\\Users\\onefo\\projects\\C#_studies\\logic\\logic.csproj",
       "projectName": "logic",
-      "projectPath": "C:\\Users\\onefo\\projects\\CSharpStudies\\logic\\logic.csproj",
+      "projectPath": "C:\\Users\\onefo\\projects\\C#_studies\\logic\\logic.csproj",
       "packagesPath": "C:\\Users\\onefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\onefo\\projects\\CSharpStudies\\logic\\obj\\",
+      "outputPath": "C:\\Users\\onefo\\projects\\C#_studies\\logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\onefo\\AppData\\Roaming\\NuGet\\NuGet.Config"
