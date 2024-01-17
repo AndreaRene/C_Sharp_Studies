@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "challenge_parse_string_sort_and_tag_errors/1.0.0": {
+        "runtime": {
+          "challenge_parse_string_sort_and_tag_errors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challenge_parse_string_sort_and_tag_errors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

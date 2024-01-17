@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\bin\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.exe
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\bin\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.deps.json
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\bin\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\bin\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.dll
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\bin\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.pdb
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.sourcelink.json
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.dll
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\refint\challenge_parse_string_sort_and_tag_errors.dll
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.pdb
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\challenge_parse_string_sort_and_tag_errors.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\challenge_parse_string_sort_and_tag_errors\obj\Debug\net8.0\ref\challenge_parse_string_sort_and_tag_errors.dll

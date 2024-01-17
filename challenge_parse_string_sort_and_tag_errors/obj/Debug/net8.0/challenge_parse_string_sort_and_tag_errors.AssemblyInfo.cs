@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("challenge_parse_string_sort_and_tag_errors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f612871027ff394ef9493fffebb8f9970e0b509f")]
 [assembly: System.Reflection.AssemblyProductAttribute("challenge_parse_string_sort_and_tag_errors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("challenge_parse_string_sort_and_tag_errors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
