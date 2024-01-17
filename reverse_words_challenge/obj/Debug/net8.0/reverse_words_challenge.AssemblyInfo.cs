@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reverse_words_challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18232a6ff71a0b0993f42cafbeff239ff324a4d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276385ad200b317f9090bbf9644cdec6f733c85e")]
 [assembly: System.Reflection.AssemblyProductAttribute("reverse_words_challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reverse_words_challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
