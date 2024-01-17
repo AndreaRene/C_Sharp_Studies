@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\bin\Debug\net8.0\challenge_string_interpolation.exe
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\bin\Debug\net8.0\challenge_string_interpolation.deps.json
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\bin\Debug\net8.0\challenge_string_interpolation.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\bin\Debug\net8.0\challenge_string_interpolation.dll
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\bin\Debug\net8.0\challenge_string_interpolation.pdb
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.sourcelink.json
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.dll
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\refint\challenge_string_interpolation.dll
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.pdb
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\challenge_string_interpolation.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\challenge_string_interpolation\obj\Debug\net8.0\ref\challenge_string_interpolation.dll
