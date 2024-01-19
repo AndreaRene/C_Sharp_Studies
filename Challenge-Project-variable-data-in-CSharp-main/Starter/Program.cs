@@ -137,7 +137,7 @@ do
             while (dogCharacteristic == "")
             {
                 // #2 have user enter multiple comma separated characteristics to search for
-                Console.WriteLine($"\r\nEnter one desired dog characteristic to search for");
+                Console.WriteLine($"\r\nEnter desired dog characteristic to search for separated by commas");
                 readResult = Console.ReadLine();
                 if (readResult != null)
                 {
@@ -178,9 +178,12 @@ do
                     
                     if (dogDescription.Contains(dogCharacteristic))
                     {
+                    
                         // #3b update message to reflect term 
                         // #3c set a flag "this dog" is a match
-                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
+                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} matches your search for {dogCharacteristic}!");
+                        Console.WriteLine($"{ourAnimals[i, 3]} ({ourAnimals[i, 0]})\n{ourAnimals[i, 4]}\n{ourAnimals[i, 5]}");
+                        Console.WriteLine($"");
 
                         noMatchesDog = false;
                     }
