@@ -13,6 +13,10 @@ int closingSpanPosition = input.IndexOf(closeSpan);
 openingSpanPosition += openSpan.Length;
 int length = closingSpanPosition - openingSpanPosition;
 
+output = input.Replace("<div>","");
+output = output.Replace("</div>", "");
+output = output.Replace("trade", "reg");
+
 quantity = input.Substring(openingSpanPosition, length);
-Console.WriteLine(quantity);
-Console.WriteLine(output);
+Console.WriteLine("Quantity: " + quantity);
+Console.WriteLine("Output: " + output);
