@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("challenge_create_reusable_method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db36e84594489ef4bedb202a81065a3dc3dbfc05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a07416b93fb52371935ae85b0a76191fe8c99162")]
 [assembly: System.Reflection.AssemblyProductAttribute("challenge_create_reusable_method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("challenge_create_reusable_method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
