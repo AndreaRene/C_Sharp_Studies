@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\bin\Debug\net8.0\challenge_create_reusable_method.exe
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\bin\Debug\net8.0\challenge_create_reusable_method.deps.json
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\bin\Debug\net8.0\challenge_create_reusable_method.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\bin\Debug\net8.0\challenge_create_reusable_method.dll
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\bin\Debug\net8.0\challenge_create_reusable_method.pdb
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.sourcelink.json
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.dll
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\refint\challenge_create_reusable_method.dll
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.pdb
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\challenge_create_reusable_method.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\challenge_create_reusable_method\obj\Debug\net8.0\ref\challenge_create_reusable_method.dll

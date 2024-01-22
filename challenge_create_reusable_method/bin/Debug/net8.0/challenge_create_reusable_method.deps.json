@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "challenge_create_reusable_method/1.0.0": {
+        "runtime": {
+          "challenge_create_reusable_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challenge_create_reusable_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
