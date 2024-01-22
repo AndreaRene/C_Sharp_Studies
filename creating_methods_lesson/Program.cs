@@ -9,3 +9,6 @@
 
     Console.WriteLine();
 }
+
+Console.WriteLine("Generating random numbers:");
+DisplayRandomNumbers();
