@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\guided_project_methods\bin\Debug\net8.0\guided_project_methods.exe
+C:\Users\onefo\projects\C#_studies\guided_project_methods\bin\Debug\net8.0\guided_project_methods.deps.json
+C:\Users\onefo\projects\C#_studies\guided_project_methods\bin\Debug\net8.0\guided_project_methods.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\guided_project_methods\bin\Debug\net8.0\guided_project_methods.dll
+C:\Users\onefo\projects\C#_studies\guided_project_methods\bin\Debug\net8.0\guided_project_methods.pdb
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.sourcelink.json
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.dll
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\refint\guided_project_methods.dll
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.pdb
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\guided_project_methods.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\guided_project_methods\obj\Debug\net8.0\ref\guided_project_methods.dll
