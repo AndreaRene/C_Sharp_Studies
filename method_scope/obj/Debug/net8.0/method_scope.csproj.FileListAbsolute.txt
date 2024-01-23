@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\method_scope\bin\Debug\net8.0\method_scope.exe
+C:\Users\onefo\projects\C#_studies\method_scope\bin\Debug\net8.0\method_scope.deps.json
+C:\Users\onefo\projects\C#_studies\method_scope\bin\Debug\net8.0\method_scope.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\method_scope\bin\Debug\net8.0\method_scope.dll
+C:\Users\onefo\projects\C#_studies\method_scope\bin\Debug\net8.0\method_scope.pdb
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.sourcelink.json
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.dll
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\refint\method_scope.dll
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.pdb
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\method_scope.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\method_scope\obj\Debug\net8.0\ref\method_scope.dll
