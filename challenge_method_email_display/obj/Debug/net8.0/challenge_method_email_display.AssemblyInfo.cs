@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("challenge_method_email_display")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbc907ff40a316c2cab63b1506c223de7240537b")]
 [assembly: System.Reflection.AssemblyProductAttribute("challenge_method_email_display")]
 [assembly: System.Reflection.AssemblyTitleAttribute("challenge_method_email_display")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\bin\Debug\net8.0\challenge_method_email_display.exe
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\bin\Debug\net8.0\challenge_method_email_display.deps.json
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\bin\Debug\net8.0\challenge_method_email_display.runtimeconfig.json
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\bin\Debug\net8.0\challenge_method_email_display.dll
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\bin\Debug\net8.0\challenge_method_email_display.pdb
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.AssemblyInfoInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.AssemblyInfo.cs
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.csproj.CoreCompileInputs.cache
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.sourcelink.json
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.dll
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\refint\challenge_method_email_display.dll
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.pdb
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\challenge_method_email_display.genruntimeconfig.cache
+C:\Users\onefo\projects\C#_studies\challenge_method_email_display\obj\Debug\net8.0\ref\challenge_method_email_display.dll
