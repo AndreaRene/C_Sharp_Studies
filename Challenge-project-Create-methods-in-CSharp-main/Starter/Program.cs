@@ -36,6 +36,7 @@ while (!shouldExit)
     else
     {
         Move();
+        CheckFood();
     }
 }
 
@@ -44,6 +45,16 @@ bool TerminalResized()
 {
     return height != Console.WindowHeight - 1 || width != Console.WindowWidth - 5;
 }
+
+void CheckFood()
+{
+    if (playerX == foodX && playerY == foodY)
+    {
+        ChangePlayer();
+        ShowFood();
+    }
+}
+
 
 // Displays random food at a random location
 void ShowFood()
