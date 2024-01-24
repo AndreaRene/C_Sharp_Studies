@@ -51,6 +51,7 @@ void CheckFood()
     if (playerX == foodX && playerY == foodY)
     {
         ChangePlayer();
+        FreezePlayer();
         ShowFood();
     }
 }
@@ -82,8 +83,11 @@ void ChangePlayer()
 // Temporarily stops the player from moving
 void FreezePlayer()
 {
-    System.Threading.Thread.Sleep(1000);
-    player = states[0];
+    if (player == states[2])
+    {
+        System.Threading.Thread.Sleep(1000);
+        player = states[0];
+    }
 }
 
 // Reads directional input from the Console and moves the player
