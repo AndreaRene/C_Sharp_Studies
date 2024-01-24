@@ -35,8 +35,16 @@ while (!shouldExit)
     }
     else
     {
-        Move();
-        CheckFood();
+        if (faster())
+        {
+            Move(true, 3);
+            CheckFood();
+        }
+        else
+        {
+            Move();
+            CheckFood();
+        }
     }
 }
 
@@ -90,8 +98,13 @@ void FreezePlayer()
     }
 }
 
+bool faster()
+{
+    return player.Equals(states[1]);
+}
+
 // Reads directional input from the Console and moves the player
-void Move(bool wrongKey = true)
+void Move(bool wrongKey = true, int speed = 1)
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -105,10 +118,10 @@ void Move(bool wrongKey = true)
             playerY++;
             break;
         case ConsoleKey.LeftArrow:
-            playerX--;
+            playerX -= speed;
             break;
         case ConsoleKey.RightArrow:
-            playerX++;
+            playerX += speed;
             break;
         case ConsoleKey.Escape:
             shouldExit = true;
