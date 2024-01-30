@@ -1,0 +1,15 @@
+c:\Users\onefo\projects\C#_studies\debugging\bin\Debug\net8.0\debugging.exe
+c:\Users\onefo\projects\C#_studies\debugging\bin\Debug\net8.0\debugging.deps.json
+c:\Users\onefo\projects\C#_studies\debugging\bin\Debug\net8.0\debugging.runtimeconfig.json
+c:\Users\onefo\projects\C#_studies\debugging\bin\Debug\net8.0\debugging.dll
+c:\Users\onefo\projects\C#_studies\debugging\bin\Debug\net8.0\debugging.pdb
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.AssemblyInfoInputs.cache
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.AssemblyInfo.cs
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.csproj.CoreCompileInputs.cache
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.sourcelink.json
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.dll
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\refint\debugging.dll
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.pdb
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\debugging.genruntimeconfig.cache
+c:\Users\onefo\projects\C#_studies\debugging\obj\Debug\net8.0\ref\debugging.dll
