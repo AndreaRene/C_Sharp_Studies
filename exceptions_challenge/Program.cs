@@ -1,29 +1,39 @@
-﻿string[][] userEnteredValues = new string[][]
+﻿
+//instantiate jagged array of user input
+string[][] userEnteredValues = new string[][]
 {
             new string[] { "1", "2", "3"},
             new string[] { "1", "two", "3"},
             new string[] { "0", "1", "2"}
 };
 
+//instanciate overallStatusMessage as an empty string
 string overallStatusMessage = "";
 
+//assigning value of overall status to be the return value of the Workflow1 method using the jagged array
 overallStatusMessage = Workflow1(userEnteredValues);
 
+//good stuff happened
 if (overallStatusMessage == "operating procedure complete")
 {
     Console.WriteLine("'Workflow1' completed successfully.");
 }
+
+//bad stuff happened
 else
 {
     Console.WriteLine("An error occurred during 'Workflow1'.");
     Console.WriteLine(overallStatusMessage);
 }
 
+//instantiate method Workflow1 expecting a jagged array to be passed in
 static string Workflow1(string[][] userEnteredValues)
 {
+    //instatiate local strings
     string operationStatusMessage = "good";
     string processStatusMessage = "";
 
+//for each array in the provided jagged array
     foreach (string[] userEntries in userEnteredValues)
     {
         processStatusMessage = Process1(userEntries);

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("extract_replace_remove_challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf03b9b8012018683da381b15d3bd8c1f8a8f0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746572e592789652c833daa266ead181a2e24ea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("extract_replace_remove_challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("extract_replace_remove_challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
